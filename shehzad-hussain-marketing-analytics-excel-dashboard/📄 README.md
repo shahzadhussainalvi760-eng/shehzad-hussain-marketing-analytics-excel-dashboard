@@ -162,7 +162,7 @@ Marketing-Analytics-Dashboard/
   <tr>
     <td><b>🐙 GitHub</b></td>
     <td>
-      <a href="https://github.com/YOUR-GITHUB-USERNAME">
+      <a href="[https://github.com/YOUR-GITHUB-USERNAME](https://github.com/shahzadhussainalvi760-eng)">
         github.com/shehzad-hussain
       </a>
     </td>
