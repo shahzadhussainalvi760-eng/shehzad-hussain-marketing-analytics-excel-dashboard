@@ -188,3 +188,24 @@ Marketing-Analytics-Dashboard/
 ## 🤝 Contributing
 
 Contributions, suggestions, and feedback are always welcome!
+---
+
+<p align="center">
+  <b>⭐ If this project helped or inspired you — please Star this repo!</b><br/>
+  It helps others discover the project and supports continued work. 🙏
+</p>
+
+<p align="center">
+  Made with ❤️ and 📊 Microsoft Excel by <b>Shehzad Hussain</b><br/><br/>
+  <a href="https://github.com/shahzadhussainalvi760-eng">
+    <img src="https://img.shields.io/badge/GitHub-shahzadhussainalvi760--eng-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/shehzad-hussain-42a5443ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shehzad%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:shahzadhussainalvi760@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shahzadhussainalvi760@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
