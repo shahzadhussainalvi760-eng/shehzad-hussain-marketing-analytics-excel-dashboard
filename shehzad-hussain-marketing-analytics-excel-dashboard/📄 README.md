@@ -134,3 +134,47 @@ Marketing-Analytics-Dashboard/
 └── README.md                   # Project documentation
 ```
 
+> 💡 **The dataset includes:** Channel data, Campaign types, 
+> Impressions, Clicks, Conversion Rates, ROI, Acquisition Costs, 
+> and Audience demographic segments.
+
+---
+
+## 👤 Author
+
+<table>
+  <tr>
+    <td><b>👤 Name</b></td>
+    <td>Shehzad Hussain</td>
+  </tr>
+  <tr>
+    <td><b>💼 Role</b></td>
+    <td>Data Analyst</td>
+  </tr>
+  <tr>
+    <td><b>🔗 LinkedIn</b></td>
+    <td>
+      <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
+        linkedin.com/in/shehzad-hussain
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🐙 GitHub</b></td>
+    <td>
+      <a href="https://github.com/YOUR-GITHUB-USERNAME">
+        github.com/shehzad-hussain
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📧 Email</b></td>
+    <td>your.email@example.com</td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome!
