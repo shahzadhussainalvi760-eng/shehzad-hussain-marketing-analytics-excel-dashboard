@@ -140,12 +140,6 @@ Marketing-Analytics-Dashboard/
 
 ---
 
-> 💡 **The dataset includes:** Channel data, Campaign types,
-> Impressions, Clicks, Conversion Rates, ROI, Acquisition Costs,
-> and Audience demographic segments.
-
----
-
 ## 👤 Author
 
 <table>
