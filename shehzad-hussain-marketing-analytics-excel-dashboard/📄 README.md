@@ -140,6 +140,12 @@ Marketing-Analytics-Dashboard/
 
 ---
 
+> 💡 **The dataset includes:** Channel data, Campaign types,
+> Impressions, Clicks, Conversion Rates, ROI, Acquisition Costs,
+> and Audience demographic segments.
+
+---
+
 ## 👤 Author
 
 <table>
@@ -154,22 +160,26 @@ Marketing-Analytics-Dashboard/
   <tr>
     <td><b>🔗 LinkedIn</b></td>
     <td>
-      <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL">
-        linkedin.com/in/shehzad-hussain
+      <a href="https://www.linkedin.com/in/shehzad-hussain-42a5443ab/">
+        linkedin.com/in/shehzad-hussain-42a5443ab
       </a>
     </td>
   </tr>
   <tr>
     <td><b>🐙 GitHub</b></td>
     <td>
-      <a href="[https://github.com/YOUR-GITHUB-USERNAME](https://github.com/shahzadhussainalvi760-eng)">
-        github.com/shehzad-hussain
+      <a href="https://github.com/shahzadhussainalvi760-eng">
+        github.com/shahzadhussainalvi760-eng
       </a>
     </td>
   </tr>
   <tr>
     <td><b>📧 Email</b></td>
-    <td>your.email@example.com</td>
+    <td>
+      <a href="mailto:shahzadhussainalvi760@gmail.com">
+        shahzadhussainalvi760@gmail.com
+      </a>
+    </td>
   </tr>
 </table>
 
